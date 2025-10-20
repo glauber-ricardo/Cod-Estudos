@@ -1,6 +1,6 @@
 # Conta Bancária
 
-==========================================================
+===================================================
 
 # Descrição: Sistema simples de contas bancárias em Ruby.
 Funcionalidade: 
@@ -10,4 +10,4 @@ Funcionalidade:
 Tecnologias: Ruby (Programação Orientada a Objetos)
 Autor: Glauber Ricardo
 
-=========================================================
+==================================================
